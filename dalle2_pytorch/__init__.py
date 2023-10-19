@@ -1,7 +1,3 @@
-from dalle2_pytorch.version import __version__
-from dalle2_pytorch.dalle2_pytorch import DALLE2, DiffusionPriorNetwork, DiffusionPrior, Unet, Decoder
-from dalle2_pytorch.dalle2_pytorch import OpenAIClipAdapter, OpenClipAdapter
-from dalle2_pytorch.trainer import DecoderTrainer, DiffusionPriorTrainer
-
-from dalle2_pytorch.vqgan_vae import VQGanVAE
-from x_clip import CLIP
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d976fbea02ccc7cbc376064ced9b070ef86bf033e44a5b891251bef33d79fa1
+size 371
