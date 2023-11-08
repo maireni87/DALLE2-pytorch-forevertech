@@ -1,3 +1,4 @@
+C:/wamp64/www/forevertech/wp-content/plugins/wordpress-plugin-boilerplate/DALLE2-pytorch-forevertech/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
